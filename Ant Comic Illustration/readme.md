@@ -1,2 +1,2 @@
 Something
-![Github](/Illustrations/Ant Comic Illustration.png)
+![Git Hub]("/Illustrations/Ant Comic Illustration/antcomic.png")

@@ -1,1 +1,1 @@
-![image](./Illustrations/Castle_Isometric.png =300x250)
+![image](/Illustrations/Castle_Isometric.png =300x250)

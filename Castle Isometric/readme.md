@@ -1,2 +1,1 @@
-![](Castle_Isometric.png=1400x)
-<img src="castle_isometric.png" alt="Castle_Isometric" width="300" height="200"/>
+<img src="Castle_Isometric.png" alt="Castle_Isometric" width="1300" height="700"/>

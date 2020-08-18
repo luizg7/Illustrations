@@ -1,1 +1,1 @@
-<img src="boxcomig.png" alt="Box Comic" weight="1200" height="900" />
+<img src="boxcomics.png" alt="Box Comic" weight="1200" height="900" />

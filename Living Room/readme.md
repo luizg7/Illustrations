@@ -1,1 +1,1 @@
-<img src="liviningroom.png" width="1200" height="800"/>
+<img src="liviningroom.png" width="1200" height="700"/>

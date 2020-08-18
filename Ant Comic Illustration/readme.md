@@ -1,2 +1,1 @@
-Something
-![Git Hub](/Illustrations/Ant\Comic\Illustration/antcomic.png)
+<img src="antcomic.png" width="1200" height="900" />

@@ -1,1 +1,1 @@
-<img src="eyes.png" alt="Are you Blind?" />
+<img src="eyes.png" width="100%" height="100%" />

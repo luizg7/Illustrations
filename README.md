@@ -1,2 +1,2 @@
 # Illustrations
-Illustrations project for Illustrator course
+Illustrations projects for Illustrator course

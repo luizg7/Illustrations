@@ -1,1 +1,1 @@
-<img src="antcomic.png" width="1200" height="900" />
+<img src="antcomic.jpg" width="100%" height="100%" />

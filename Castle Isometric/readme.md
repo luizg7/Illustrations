@@ -1,1 +1,1 @@
-<img src="Castle_Isometric.png" alt="Castle_Isometric" width="1300" height="700"/>
+<img src="castle_isometric.jpg" width="100%" height="100%" />

@@ -1,1 +1,1 @@
-<img src="Bob's.jpg" alt="Bob" weight="500" height="330"/>
+<img src="Bob's.jpg" width="100%" height="100%" />
